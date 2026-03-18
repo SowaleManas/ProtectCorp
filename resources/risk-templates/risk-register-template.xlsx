@@ -1,0 +1,2 @@
+| Risk ID | Risk Title | Risk Description | Likelihood | Impact | Risk Rating | Existing Controls | Recommended Action | Owner | Status |
+| R1 | Weak Access Governance | Excessive user privileges | Medium | High | High | Basic password policy | Implement access review | IT Manager | Open |
